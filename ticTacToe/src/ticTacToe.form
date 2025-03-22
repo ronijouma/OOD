@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="ticTacToe">
+  <grid id="27dc6" binding="mainPanel" layout-manager="GridLayoutManager" row-count="4" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="624" height="544"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="750a1" class="javax.swing.JButton" binding="btnIndex2">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="4" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="150" height="150"/>
+            <preferred-size width="150" height="150"/>
+            <maximum-size width="150" height="150"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-6908266"/>
+          <enabled value="true"/>
+          <font name="MV Boli" size="96" style="1"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="e07d2" class="javax.swing.JButton" binding="btnIndex1">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="4" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="150" height="150"/>
+            <preferred-size width="150" height="150"/>
+            <maximum-size width="150" height="150"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-6908266"/>
+          <font name="MV Boli" size="96" style="1"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="637a5" class="javax.swing.JButton" binding="btnIndex5">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="150" height="150"/>
+            <preferred-size width="150" height="150"/>
+            <maximum-size width="150" height="150"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-6908266"/>
+          <font name="MV Boli" size="96" style="1"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="e9b11" class="javax.swing.JButton" binding="btnIndex4">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="150" height="150"/>
+            <preferred-size width="150" height="150"/>
+            <maximum-size width="150" height="150"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-6908266"/>
+          <font name="MV Boli" size="96" style="1"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="a9bc7" class="javax.swing.JButton" binding="btnIndex8">
+        <constraints>
+          <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="150" height="150"/>
+            <preferred-size width="150" height="150"/>
+            <maximum-size width="150" height="150"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-6908266"/>
+          <font name="MV Boli" size="96" style="1"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="d784c" class="javax.swing.JButton" binding="btnIndex7">
+        <constraints>
+          <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="150" height="150"/>
+            <preferred-size width="150" height="150"/>
+            <maximum-size width="150" height="150"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-6908266"/>
+          <font name="MV Boli" size="96" style="1"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="64d6f" class="javax.swing.JButton" binding="btnIndex0">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="4" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="150" height="150"/>
+            <preferred-size width="150" height="150"/>
+            <maximum-size width="150" height="150"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-6908266"/>
+          <font name="MV Boli" size="96" style="1"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="ea76" class="javax.swing.JButton" binding="btnIndex3">
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="150" height="150"/>
+            <preferred-size width="150" height="150"/>
+            <maximum-size width="150" height="150"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-6908266"/>
+          <font name="MV Boli" size="96" style="1"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="6748e" class="javax.swing.JButton" binding="btnIndex6">
+        <constraints>
+          <grid row="3" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false">
+            <minimum-size width="150" height="150"/>
+            <preferred-size width="150" height="150"/>
+            <maximum-size width="150" height="150"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-6908266"/>
+          <font name="MV Boli" size="96" style="1"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="9e75a" class="javax.swing.JLabel" binding="myLabel">
+        <constraints>
+          <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="2" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Ink Free" size="40" style="1"/>
+          <text value="Welcome"/>
+        </properties>
+      </component>
+      <component id="d5a7f" class="javax.swing.JButton" binding="hardModeButton" default-binding="true">
+        <constraints>
+          <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Hard Mode"/>
+        </properties>
+      </component>
+      <component id="9ac0" class="javax.swing.JButton" binding="easyModeButton" default-binding="true">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Easy Mode"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
